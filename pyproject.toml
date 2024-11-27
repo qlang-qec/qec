@@ -1,0 +1,10 @@
+[project]
+name = "qec"
+version = "0.1.0"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.9.2",
+    "stim>=1.14.0",
+]
